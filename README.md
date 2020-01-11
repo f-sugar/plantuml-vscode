@@ -31,14 +31,9 @@ $ docker-compose up
 
 ## 使い方
 ### プレビュー
-```
-$ Option + D
-```
+- `Option + D`
 
 ### 画像出力
-- コマンドパレットを開く
-```
-$ Shift + ⌘ + P 
-```
+- `Shift + ⌘ + P` でコマンドパレットを開く。
 - `PlantUML: Export Current Diagrams` を選択。
 - `png`, `svg` など任意の形式を選択。
